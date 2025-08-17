@@ -1,0 +1,2 @@
+git commit is used for maintained changes
+git add is used to stage the change file
