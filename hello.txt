@@ -1,1 +1,6 @@
+
 git add is used to make stagegit 
+git commit is used for maintained changes
+git add is used to stage the change file
+there is change
+
